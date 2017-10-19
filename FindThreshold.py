@@ -1,5 +1,7 @@
 # python 3.6 Opencv 3.3
 # require for numpy and matplotlib package
+# Use this to illustrate how parameters influence the threshold result
+# Find the para to a settled optical environment  
 import cv2
 import numpy as np
 import math
