@@ -6,6 +6,10 @@ Shearing Interference pattern measurement
 
 This script runs in the standard python 3.6 environment with opencv 3
 
-Put the target image in the same route and edit the imread() function in the script
+The main program is PAnalyze.py
+Put the target image in the same route and edit the imread()'s route in the script. And Run.
 
-There is one example image in this repository.
+There is one example image in this repository named SIimg0000.jpg
+
+FingThreshold.py is a demo to see how adaptive parameter influence the outcome
+getimg.md is a instruction file to help get image from RaspberryPi
